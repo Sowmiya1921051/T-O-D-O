@@ -40,6 +40,7 @@ function Login() {
           >
             Sign In
           </button>
+          <p className='text-white mt-3'>New Registration?</p>
         </form>
       </div>
     </div>
