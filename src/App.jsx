@@ -1,9 +1,10 @@
 import React from 'react'
-import Login from './components/Login'
+import Buy from './Buy'
+
 function App() {
   return (
-    <div >
-      <Login/>
+    <div>
+      <Buy/>
     </div>
   )
 }
