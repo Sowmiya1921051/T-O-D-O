@@ -21,7 +21,7 @@ function Buy() {
                 </select>
             </div>
                 <div className='text-center mt-4'>
-                    <p>Hii Sowmia, you selected: {selectedOption}</p>
+                    <p> selected : {selectedOption}</p>
                 </div>
             
         </div>
